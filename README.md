@@ -2,7 +2,7 @@
 
 A robust relational database system designed to manage users, vehicle inventory, and rental bookings. This project demonstrates database normalization, relationship management, and advanced SQL querying.
 
-ERD Diagram:
+`ERD Diagram`:
 [ERD Diagram](https://lucid.app/lucidchart/d088a05b-0e3d-46d0-a7ee-dbbe6885ab28/edit?viewport_loc=-13%2C393%2C1937%2C797%2C0_0&invitationId=inv_4fe3a144-904f-4a6d-8201-51bbfb388415)
 You must need to login on lucidchart to view the diagram.
 
