@@ -6,7 +6,7 @@ A robust relational database system designed to manage users, vehicle inventory,
 [ERD Diagram](https://lucid.app/lucidchart/d088a05b-0e3d-46d0-a7ee-dbbe6885ab28/edit?viewport_loc=-13%2C393%2C1937%2C797%2C0_0&invitationId=inv_4fe3a144-904f-4a6d-8201-51bbfb388415)
 You must need to login on lucidchart to view the diagram.
 
-`Viva Video Folder Link` : [Viva Video Folder](hhttps://drive.google.com/drive/folders/1OMAvgZyMbSVbXe3Vci5mbWq4G7-2qtTo)
+`Viva Video Folder Link` : [https://drive.google.com/drive/folders/1OMAvgZyMbSVbXe3Vci5mbWq4G7-2qtTo](hhttps://drive.google.com/drive/folders/1OMAvgZyMbSVbXe3Vci5mbWq4G7-2qtTo)
 
 ## 📌 Project Overview
 
